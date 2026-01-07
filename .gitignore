@@ -4,7 +4,7 @@
 **/build/
 **/*.db
 *.hprof
-.kotlin
+*.kotlin
 
 ### IntelliJ IDEA / Android Studio
 # Covers JetBrains IDEs: IntelliJ, Android Studio
